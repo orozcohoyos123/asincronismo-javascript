@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orozcohoyos123/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orozcohoyos123/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/orozcohoyos123/asincronismo-javascript#readme"
+}
